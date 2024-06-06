@@ -1,0 +1,17 @@
+{
+  "name": "learning-nodejs",
+  "version": "1.0.0",
+  "description": "Learning",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "scripts": {
+    "server": "nodemon server.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
